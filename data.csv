@@ -1,0 +1,106 @@
+Product_ID,Product_Name,Sales,Profit,Region
+101,Headphones,4575.8,305.0533333,South America
+102,,,,
+103,Headphones,202.4,101.2,South America
+104,,750.14,187.535,South America
+105,Phone,987.76,70.55428571,Europe
+106,Toy Car,40.22,20.11,Asia
+107,Printer,5246.51,349.7673333,Europe
+108,,,,
+109,Notebook,2775.18,213.4753846,North America
+110,Headphones,905.12,56.57,North America
+111,Toy Car,237.08,39.51333333,North America
+112,Desk Chair,,,Africa
+113,Laptop,176.13,44.0325,Africa
+114,Laptop,4553.31,227.6655,Europe
+115,Printer,168.85,168.85,Asia
+116,Notebook,2206.99,183.9158333,Unknown
+117,,1559.51,97.469375,Unknown
+118,Notebook,2196.46,109.823,Asia
+119,Desk Chair,5358.08,334.88,Europe
+120,Laptop,418.27,83.654,North America
+121,Laptop,1093.7,364.5666667,South America
+122,Printer,1523.2,304.64,Europe
+123,Headphones,1004.23,71.73071429,South America
+124,Phone,826.81,413.405,North America
+125,Notebook,27.87,27.87,North America
+126,Table,2710.03,451.6716667,Africa
+127,Desk Chair,3698.4,184.92,Asia
+128,Laptop,340.78,85.195,Europe
+129,Printer,785.35,392.675,Europe
+130,Phone,6598.6,471.3285714,Unknown
+131,,4649.93,422.7209091,Europe
+132,Phone,1842.55,167.5045455,Europe
+133,Toy Car,905.64,82.33090909,South America
+134,Phone,7271.22,427.7188235,North America
+135,Notebook,112.09,56.045,South America
+136,Table,2568.89,197.6069231,Europe
+137,Toy Car,3448.3,246.3071429,Africa
+138,,2542.3,181.5928571,Europe
+139,Printer,5027.59,386.7376923,Africa
+140,,1084.07,83.39,Asia
+141,Phone,28.71,14.355,Asia
+142,Laptop,162.34,16.234,North America
+143,Notebook,,,Europe
+144,,3872.11,322.6758333,South America
+145,Desk Chair,6575.78,438.3853333,Africa
+146,Phone,7182.54,422.5023529,Europe
+147,Toy Car,3314.52,236.7514286,Africa
+148,,,,
+149,Printer,1194.54,170.6485714,Europe
+150,Table,4295.22,330.4015385,Africa
+151,Laptop,3984.49,498.06125,South America
+152,Headphones,7750.26,407.9084211,North America
+153,Notebook,86.38,86.38,Asia
+154,,4288.92,252.2894118,South America
+155,Laptop,,,Asia
+156,Laptop,1602.94,267.1566667,Africa
+157,Headphones,2235.98,159.7128571,Asia
+158,Headphones,4892.04,244.602,Asia
+159,Desk Chair,5247.24,437.27,Asia
+160,Toy Car,1734.72,346.944,Europe
+161,Headphones,643.56,214.52,Asia
+162,Laptop,325.47,27.1225,Europe
+163,Laptop,5499.97,289.4721053,North America
+164,Phone,5380.49,283.1836842,South America
+165,Toy Car,221.39,24.59888889,Europe
+166,Printer,6130.93,437.9235714,South America
+167,,3622.69,362.269,Africa
+168,Desk Chair,1231.98,136.8866667,Asia
+169,Phone,667.4,333.7,Europe
+170,Phone,5566.68,347.9175,Europe
+171,Table,2701.26,142.1715789,Europe
+172,Notebook,9299.15,489.4289474,Europe
+173,Phone,6301.84,350.1022222,South America
+174,Headphones,223.54,44.708,Asia
+175,Phone,530.98,106.196,Europe
+176,Laptop,3724.22,196.0115789,Europe
+177,Desk Chair,562.06,80.29428571,Africa
+178,Toy Car,369.72,369.72,South America
+179,Printer,4555.32,455.532,Africa
+180,Notebook,4104.29,342.0241667,Africa
+181,Notebook,1237.44,412.48,Europe
+182,Laptop,269.12,26.912,Unknown
+183,Desk Chair,466.86,77.81,Africa
+184,Desk Chair,3480.53,174.0265,North America
+185,Laptop,4474.35,447.435,Europe
+186,Printer,443.57,110.8925,Unknown
+187,Notebook,2235.65,248.4055556,Africa
+188,Toy Car,831.42,277.14,Asia
+189,Notebook,828.7,165.74,Africa
+190,Toy Car,475.39,475.39,Europe
+191,Notebook,360.51,360.51,South America
+192,Toy Car,516.77,51.677,South America
+193,Toy Car,4064.09,225.7827778,Africa
+194,Phone,4773.51,397.7925,South America
+195,Laptop,,,Asia
+196,Notebook,4441.32,444.132,South America
+197,Toy Car,2465.49,352.2128571,Africa
+198,Printer,381.16,34.65090909,Europe
+199,Laptop,2214.97,246.1077778,Africa
+200,Printer,5808.5,341.6764706,North America
+201,Desk Chair,3480.53,174.0265,North America
+202,,4288.92,252.2894118,South America
+203,Table,2701.26,142.1715789,Europe
+204,Phone,7182.54,422.5023529,Europe
+205,Desk Chair,6575.78,438.3853333,Africa
